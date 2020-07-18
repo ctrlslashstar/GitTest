@@ -1,0 +1,1 @@
+Functional Programming: is paradigm of programming
